@@ -15,8 +15,6 @@
 		D18941412B23B7650055B31F /* Secret_SantaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18941402B23B7650055B31F /* Secret_SantaUITests.swift */; };
 		D18941432B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18941422B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift */; };
 		D18941502B28D88D0055B31F /* MountainsofChristmas-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */; };
-		D18941552B28FB040055B31F /* IMG_0141.HEIC in Resources */ = {isa = PBXBuildFile; fileRef = D18941542B28FB040055B31F /* IMG_0141.HEIC */; };
-		D18941572B28FB6B0055B31F /* IMG_0141.png in Resources */ = {isa = PBXBuildFile; fileRef = D18941562B28FB6B0055B31F /* IMG_0141.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,8 +47,6 @@
 		D18941422B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secret_SantaUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "MountainsofChristmas-Bold.ttf"; path = "../../../Downloads/Mountains_of_Christmas/MountainsofChristmas-Bold.ttf"; sourceTree = "<group>"; };
 		D18941532B28DA260055B31F /* Secret-Santa-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Secret-Santa-Info.plist"; sourceTree = SOURCE_ROOT; };
-		D18941542B28FB040055B31F /* IMG_0141.HEIC */ = {isa = PBXFileReference; lastKnownFileType = file; name = IMG_0141.HEIC; path = ../../../Downloads/IMG_0141.HEIC; sourceTree = "<group>"; };
-		D18941562B28FB6B0055B31F /* IMG_0141.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_0141.png; path = ../../../Downloads/IMG_0141.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,8 +100,6 @@
 				D18941532B28DA260055B31F /* Secret-Santa-Info.plist */,
 				D18941252B23B7630055B31F /* Secret_SantaApp.swift */,
 				D18941272B23B7630055B31F /* ContentView.swift */,
-				D18941542B28FB040055B31F /* IMG_0141.HEIC */,
-				D18941562B28FB6B0055B31F /* IMG_0141.png */,
 				D18941292B23B7640055B31F /* Assets.xcassets */,
 				D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */,
 				D189412B2B23B7640055B31F /* Preview Content */,
@@ -243,9 +237,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D189412D2B23B7640055B31F /* Preview Assets.xcassets in Resources */,
-				D18941572B28FB6B0055B31F /* IMG_0141.png in Resources */,
 				D18941502B28D88D0055B31F /* MountainsofChristmas-Bold.ttf in Resources */,
-				D18941552B28FB040055B31F /* IMG_0141.HEIC in Resources */,
 				D189412A2B23B7640055B31F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
