@@ -36,7 +36,7 @@ struct ContentView: View {
                         }
                         .padding()
                     
-                    Button("Add Monkey") {
+                    Button("Add Monki") {
                         if !newPerson.isEmpty {
                             people.append(newPerson)
                             newPerson = ""
