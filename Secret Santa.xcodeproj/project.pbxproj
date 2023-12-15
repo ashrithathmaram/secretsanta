@@ -14,7 +14,6 @@
 		D18941372B23B7650055B31F /* Secret_SantaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18941362B23B7650055B31F /* Secret_SantaTests.swift */; };
 		D18941412B23B7650055B31F /* Secret_SantaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18941402B23B7650055B31F /* Secret_SantaUITests.swift */; };
 		D18941432B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D18941422B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift */; };
-		D18941502B28D88D0055B31F /* MountainsofChristmas-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,7 +44,6 @@
 		D189413C2B23B7650055B31F /* Secret SantaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Secret SantaUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D18941402B23B7650055B31F /* Secret_SantaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secret_SantaUITests.swift; sourceTree = "<group>"; };
 		D18941422B23B7650055B31F /* Secret_SantaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secret_SantaUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "MountainsofChristmas-Bold.ttf"; path = "../../../Downloads/Mountains_of_Christmas/MountainsofChristmas-Bold.ttf"; sourceTree = "<group>"; };
 		D18941532B28DA260055B31F /* Secret-Santa-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Secret-Santa-Info.plist"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -101,7 +99,6 @@
 				D18941252B23B7630055B31F /* Secret_SantaApp.swift */,
 				D18941272B23B7630055B31F /* ContentView.swift */,
 				D18941292B23B7640055B31F /* Assets.xcassets */,
-				D189414F2B28D85B0055B31F /* MountainsofChristmas-Bold.ttf */,
 				D189412B2B23B7640055B31F /* Preview Content */,
 			);
 			path = "Secret Santa";
@@ -237,7 +234,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				D189412D2B23B7640055B31F /* Preview Assets.xcassets in Resources */,
-				D18941502B28D88D0055B31F /* MountainsofChristmas-Bold.ttf in Resources */,
 				D189412A2B23B7640055B31F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
